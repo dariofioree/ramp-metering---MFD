@@ -1,0 +1,15 @@
+<configuration>
+    <input>
+       <net-file value="map.net.xml" />
+       <route-files value="domanda.rou.xml" />
+       <additional-files value="additional.add.xml" />
+    </input>
+		
+
+ <processing>
+	<ignore-junction-blocker value ="5"/>
+     <step-method.ballistic value="true"/>
+	 <ignore-route-errors />
+ </processing>
+
+</configuration>

@@ -1,0 +1,19 @@
+<routes>
+
+<vType id="true" accel="2.5" decel="3.5" emergencyDecel="7.0" sigma="0.3" length="4.5" minGap="0.5" maxSpeed="13.89" speedFactor="normc(1,0.1,0.2,2)" laneChangeModel="LC2013" lcSpeedGain="200.0" lcSublane="1" latAlignment="compact"  impatience="0.9"> 
+<param key="has.rerouting.device" value="true"/>
+</vType>
+
+   <flow id="carflow1" type="true" begin="0" end="7200" vehsPerHour="670" from="ingresso_1" to="uscita_1" />
+   <flow id="carflow2" type="true" begin="0" end="7200" vehsPerHour="460" from="ingresso_2" to="uscita_1" />
+   <flow id="carflow3" type="true" begin="0" end="7200" vehsPerHour="387" from="ingresso_3" to="uscita_1" via="via"/>
+   
+   <flow id="carflow4" type="true" begin="7200" end="10800" vehsPerHour="720" from="ingresso_1" to="uscita_1" />
+   <flow id="carflow5" type="true" begin="7200" end="10800" vehsPerHour="500" from="ingresso_2" to="uscita_1" />
+   <flow id="carflow6" type="true" begin="7200" end="10800" vehsPerHour="532" from="ingresso_3" to="uscita_1" via="via"/>
+   
+    <flow id="carflow7" type="true" begin="10800" end="18000" vehsPerHour="470" from="ingresso_1" to="uscita_1" />
+   <flow id="carflow8" type="true" begin="10800" end="18000" vehsPerHour="521" from="ingresso_2" to="uscita_1" />
+   <flow id="carflow9" type="true" begin="10800" end="18000" vehsPerHour="421" from="ingresso_3" to="uscita_1" via="via"/>
+   
+</routes>

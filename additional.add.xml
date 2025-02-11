@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-06-07 09:57:16 by Eclipse SUMO netedit Version 1.16.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <inductionLoop id="e1Detector_-178476553#0_0_12" lane="-178476553#0_0" pos="50.39" period="180.00" file="output_detector\e1Detector_-178476553#0_0_12.txt"/>
+    <inductionLoop id="e1Detector_-183203770#1_0_9" lane="-183203770#1_0" pos="59.71" period="180.00" file="output_detector\e1Detector_-183203770#1_0_9.txt"/>
+    <inductionLoop id="e1Detector_-184421579#2_0_23" lane="-184421579#2_0" pos="43.37" period="180.00" file="output_detector\e1Detector_-184421579#2_0_23.txt"/>
+    <inductionLoop id="e1Detector_-30595778#4_0_19" lane="-30595778#4_0" pos="46.68" period="180.00" file="output_detector\e1Detector_-30595778#4_0_19.txt"/>
+    <inductionLoop id="e1Detector_-30595782_0_5" lane="-30595782_0" pos="23.02" period="180.00" file="output_detector\e1Detector_-30595782_0_5.txt"/>
+    <inductionLoop id="e1Detector_-30595794#2_0_16" lane="-30595794#2_0" pos="11.08" period="180.00" file="output_detector\e1Detector_-30595794#2_0_16.txt"/>
+    <inductionLoop id="e1Detector_-30595794#6_0_24" lane="-30595794#6_0" pos="88.34" period="180.00" file="output_detector\e1Detector_-30595794#6_0_24.txt"/>
+    <inductionLoop id="e1Detector_-387525814_0_13" lane="-387525814_0" pos="87.45" period="180.00" file="output_detector\e1Detector_-387525814_0_13.txt"/>
+    <inductionLoop id="e1Detector_-542439958#3_0_4" lane="-542439958#3_0" pos="144.43" period="180.00" file="output_detector\e1Detector_-542439958#3_0_4.txt"/>
+    <inductionLoop id="e1Detector_12_0_6" lane="12_0" pos="74.16" period="180.00" file="output_detector\e1Detector_12_0_6.txt"/>
+    <inductionLoop id="e1Detector_178472019#1_0_11" lane="178472019#1_0" pos="35.38" period="180.00" file="output_detector\e1Detector_178472019#1_0_11.txt"/>
+    <inductionLoop id="e1Detector_183203873#2_0_8" lane="183203873#2_0" pos="10.89" period="180.00" file="output_detector\e1Detector_183203873#2_0_8.txt"/>
+    <inductionLoop id="e1Detector_183203873#3_0_10" lane="183203873#3_0" pos="31.40" period="180.00" file="output_detector\e1Detector_183203873#3_0_10.txt"/>
+    <inductionLoop id="e1Detector_1_0_7" lane="1_0" pos="59.14" period="180.00" file="output_detector\e1Detector_1_0_7.txt"/>
+    <inductionLoop id="e1Detector_30595778#0_0_21" lane="30595778#0_0" pos="56.61" period="180.00" file="output_detector\e1Detector_30595778#0_0_21.txt"/>
+    <inductionLoop id="e1Detector_30595778#4_0_15" lane="30595778#4_0" pos="48.86" period="180.00" file="output_detector\e1Detector_30595778#4_0_15.txt"/>
+    <inductionLoop id="e1Detector_30595782_0_20" lane="30595782_0" pos="21.58" period="180.00" file="output_detector\e1Detector_30595782_0_20.txt"/>
+    <inductionLoop id="e1Detector_446497557#3_0_14" lane="446497557#3_0" pos="104.75" period="180.00" file="output_detector\e1Detector_446497557#3_0_14.txt"/>
+    <inductionLoop id="e1Detector_via_0_22" lane="via_0" pos="26.30" period="180.00" file="output_detector\e1Detector_via_0_22.txt"/>
+    <inductionLoop id="z_ingresso_1_0_0" lane="ingresso_1_0" pos="64.23" period="180.00" file="output_detector\e1Detector_ingresso_1_0_0.txt"/>
+    <inductionLoop id="z_ingresso_2_0_1" lane="ingresso_2_0" pos="73.91" period="180.00" file="output_detector\e1Detector_ingresso_2_0_1.txt"/>
+    <inductionLoop id="z_ingresso_3_0_3" lane="ingresso_3_0" pos="24.12" period="180.00" file="output_detector\e1Detector_ingresso_3_0_3.txt"/>
+    <inductionLoop id="z_uscita_1_0_2" lane="uscita_1_0" pos="134.39" period="180.00" file="output_detector\e1Detector_uscita_1_0_2.txt"/>
+</additional>
